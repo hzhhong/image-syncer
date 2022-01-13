@@ -3,7 +3,7 @@ auth:
     username: USERNAME
     password: PASSWORD
 images:
-  gcr.io/distroless/static: synchub/csi-attacher/static
+  gcr.io/distroless/static: synchub/static
   k8s.gcr.io/etcd: synchub/etcd
   
   
