@@ -4,5 +4,6 @@ auth:
     password: PASSWORD
 images:
   gcr.io/distroless/static: synchub/csi-attacher/static
+  k8s.gcr.io/etcd: synchub/etcd
   
   
