@@ -3,7 +3,7 @@ auth:
     username: USERNAME
     password: PASSWORD
 images:
-  gcr.io/distroless/static: synchub/static
-  k8s.gcr.io/etcd: synchub/etcd
+  gcr.io/distroless/static: registry.cn-hangzhou.aliyuncs.com/synchub/static
+  k8s.gcr.io/etcd: registry.cn-hangzhou.aliyuncs.com/synchub/etcd
   
   
