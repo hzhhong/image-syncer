@@ -6,5 +6,6 @@ images:
   gcr.io/distroless/static: registry.cn-hangzhou.aliyuncs.com/synchub/static
   k8s.gcr.io/etcd: registry.cn-hangzhou.aliyuncs.com/synchub/etcd
   gcr.io/kubebuilder/kube-rbac-proxy: registry.cn-hangzhou.aliyuncs.com/synchub/kube-rbac-proxy
+  k8s.gcr.io/node-problem-detector: registry.cn-hangzhou.aliyuncs.com/synchub/node-problem-detector
   
   
