@@ -3,6 +3,17 @@ auth:
     username: USERNAME
     password: PASSWORD
 images:
+  thingsboard/tb-coap-transport: registry.cn-hangzhou.aliyuncs.com/synchub/tb-coap-transport
+  thingsboard/tb-http-transport: registry.cn-hangzhou.aliyuncs.com/synchub/tb-http-transport
+  thingsboard/tb-node: registry.cn-hangzhou.aliyuncs.com/synchub/tb-node
+  thingsboard/tb-js-executor: registry.cn-hangzhou.aliyuncs.com/synchub/tb-js-executor
+  thingsboard/tb-web-ui: registry.cn-hangzhou.aliyuncs.com/synchub/tb-web-ui
+  thingsboard/tb-mqtt-transport: registry.cn-hangzhou.aliyuncs.com/synchub/tb-mqtt-transport
+  bitnami/kafka: registry.cn-hangzhou.aliyuncs.com/synchub/kafka
+  bitnami/pgpool: registry.cn-hangzhou.aliyuncs.com/synchub/pgpool
+  bitnami/postgresql-repmgr: registry.cn-hangzhou.aliyuncs.com/synchub/postgresql-repmgr
+  bitnami/redis: registry.cn-hangzhou.aliyuncs.com/synchub/redis
+  bitnami/zookeeper: registry.cn-hangzhou.aliyuncs.com/synchub/zookeeper
   quay.io/argoproj/argo-rollouts: registry.cn-hangzhou.aliyuncs.com/synchub/argo-rollouts
   gcr.io/distroless/static: registry.cn-hangzhou.aliyuncs.com/synchub/static
   k8s.gcr.io/etcd: registry.cn-hangzhou.aliyuncs.com/synchub/etcd
