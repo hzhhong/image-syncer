@@ -15,7 +15,7 @@ images:
   bitnami/redis: registry.cn-hangzhou.aliyuncs.com/synchub/redis
   bitnami/zookeeper: registry.cn-hangzhou.aliyuncs.com/synchub/zookeeper
   #quay.io/argoproj/argo-rollouts: registry.cn-hangzhou.aliyuncs.com/synchub/argo-rollouts
-  #gcr.io/distroless/static: registry.cn-hangzhou.aliyuncs.com/synchub/static
+  gcr.io/distroless/static: registry.cn-hangzhou.aliyuncs.com/synchub/static
   #k8s.gcr.io/etcd: registry.cn-hangzhou.aliyuncs.com/synchub/etcd
   #gcr.io/kubebuilder/kube-rbac-proxy: registry.cn-hangzhou.aliyuncs.com/synchub/kube-rbac-proxy
   #k8s.gcr.io/node-problem-detector/node-problem-detector: registry.cn-hangzhou.aliyuncs.com/synchub/node-problem-detector
