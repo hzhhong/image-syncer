@@ -4,7 +4,7 @@ auth:
     password: PASSWORD
 images:
   thingsboard/tb-gateway: registry.cn-hangzhou.aliyuncs.com/synchub/tb-gateway
-  #thingsboard/tb-coap-transport: registry.cn-hangzhou.aliyuncs.com/synchub/tb-coap-transport
+  thingsboard/tb-coap-transport: registry.cn-hangzhou.aliyuncs.com/synchub/tb-coap-transport
   #thingsboard/tb-http-transport: registry.cn-hangzhou.aliyuncs.com/synchub/tb-http-transport
   #thingsboard/tb-node: registry.cn-hangzhou.aliyuncs.com/synchub/tb-node
   #thingsboard/tb-js-executor: registry.cn-hangzhou.aliyuncs.com/synchub/tb-js-executor
