@@ -5,11 +5,11 @@ auth:
 images:
   thingsboard/tb-gateway: registry.cn-hangzhou.aliyuncs.com/synchub/tb-gateway
   thingsboard/tb-coap-transport: registry.cn-hangzhou.aliyuncs.com/synchub/tb-coap-transport
-  #thingsboard/tb-http-transport: registry.cn-hangzhou.aliyuncs.com/synchub/tb-http-transport
-  #thingsboard/tb-node: registry.cn-hangzhou.aliyuncs.com/synchub/tb-node
-  #thingsboard/tb-js-executor: registry.cn-hangzhou.aliyuncs.com/synchub/tb-js-executor
-  #thingsboard/tb-web-ui: registry.cn-hangzhou.aliyuncs.com/synchub/tb-web-ui
-  #thingsboard/tb-mqtt-transport: registry.cn-hangzhou.aliyuncs.com/synchub/tb-mqtt-transport
+  thingsboard/tb-http-transport: registry.cn-hangzhou.aliyuncs.com/synchub/tb-http-transport
+  thingsboard/tb-node: registry.cn-hangzhou.aliyuncs.com/synchub/tb-node
+  thingsboard/tb-js-executor: registry.cn-hangzhou.aliyuncs.com/synchub/tb-js-executor
+  thingsboard/tb-web-ui: registry.cn-hangzhou.aliyuncs.com/synchub/tb-web-ui
+  thingsboard/tb-mqtt-transport: registry.cn-hangzhou.aliyuncs.com/synchub/tb-mqtt-transport
   #bitnami/kafka: registry.cn-hangzhou.aliyuncs.com/synchub/kafka
   #bitnami/pgpool: registry.cn-hangzhou.aliyuncs.com/synchub/pgpool
   #bitnami/postgresql-repmgr: registry.cn-hangzhou.aliyuncs.com/synchub/postgresql-repmgr
